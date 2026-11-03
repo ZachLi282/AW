@@ -4,86 +4,128 @@ Matched by topic and slide order; the transcript has no timestamps. Original wor
 
 ## Slide 1 — Introduction
 
+![Slide 1](hemiptera-slides/slide-01.jpg)
+
 SPEAKER 1
 We're going to go further into the per otra and talk about the bugs. Perra is this group of, uh, three orders the the bugs, lice and thrips that all have, uh, piercing sucking stylo. And they're closely related to the true, uh, holo metabolisms in he.
 
 ## Slide 2 — Hemiptera
 
+![Slide 2](hemiptera-slides/slide-02.jpg)
+
 It's the largest order outside of holo metabolin, uh, over 90,000 species. And we're gonna kind of split this up into the major groups which have been considered orders at various times in the past. Um, these include the true bugs, which will be the next lecture. And today we'll talk about the hoppers and the scales, which are two other major lineages of Mira. Most of them are plant feeding, but some, uh, have, uh evolved to be predators or parasites. Uh, often the plant feeding, uh, species have very complex adaptations morphologically and associations with Endo Sibon to better, uh, adapt to their food sources. Hemera can produce wax, which they often use for defence. Uh, and they have a philtre chamber to help them digest liquid, uh, diets. So the the the the scales and relatives are sister to the rest. Then the hoppers are sister to the, uh, two groups we'll talk about in the next lecture.
 
 ## Slide 3 — Mouthparts and digestion
+
+![Slide 3](hemiptera-slides/slide-03.jpg)
 
 He, as we mentioned before, similar to other pera groups, have piercing sucking mouth parts of rostrum, uh, in their rostrum. The the external part is made from the labium. And it's segmented and can, uh, move back and forth. And the, uh, piercing sucking stys are formed from the mandibles and the lyin, which are part of the labium. Uh, those, uh, four, stys form a tube, uh, which is enclosed in that protective, uh, labium that that is the form of the rostrum. Another major, um, specialised character in the digestion of in Mira is the philtre chamber. So in the philtre chamber, the hind gut loops back onto the fore gut and the reason it's doing that is to, uh, philtre out the water so these insects can have very dilute watery diets and are very efficient at filtering out the water and concentrating the nutrients in their liquid diets.
 
 ## Slide 4 — Sternorrhyncha
 
+![Slide 4](hemiptera-slides/slide-04.jpg)
+
 We'll talk about the stria, which are the scales and relative scales and plant lice and aphids. Um, they they tend to They tend to be quite small, a larger, uh, forewing and high wing. And the forewing is a bit heavier, uh, and more heavily sclera. But a lot of these have, um, secondary secondarily lost their wings.
 
 ## Slide 5 — Psyllidae
+
+![Slide 5](hemiptera-slides/slide-05.jpg)
 
 We'll talk about a couple of families of scales and relatives. The first is the psyllid, which are the plant lice. These are very diverse and important in, uh, in Australia, particularly in, uh, eucalyptus woodlands. Um, they're the The adults are, um the these, uh, insects that that feed on plants and the nymphs, uh, form shells that are called lus. These are formed from crystallised sugars that they get from their plant. Ah, food source. So, along with filtering out a lot of the water, these insects also have to philtre out a lot of sugar in order to find nitrogenous compounds and protein. Um, for for digestion And the psyllid use that sugar to, uh, crystallise in various ways to form these alerts, which you can see on leaves of a lot of different eucalypt and other plants, um, in Australia and and worldwide. And since they're made of sugar, the these, uh, actual structures can be edible, so some birds and things will eat those. But other things other, uh, other predators will be deterred by the structure of those those lips. And they also, uh, help prevent, uh, desiccation. As the nymphs sits out in the sun on that leaf, they're protected under the the, uh, LP cover.
 
 ## Slide 6 — Aphididae
 
+![Slide 6](hemiptera-slides/slide-06.jpg)
+
 That's the plant lice onto the aphids. So there's a few different families of aphids, but the the largest ones is the largest. One is called a aphid. Um, the the most diverse and important group of aphids, including woolly aphids, uh, that cover themselves in wax for protection. So these are all plant feeding, um, similar to the plant lice. And, uh, they also are pests of some crops and ornamentals and, uh, um can transmit diseases to their their host plants and can sometimes become so numerous that they they physically damage their host plants. Um, similar to a lot of other, uh, he they have liquid diets that are, uh, very high in water. And then the next most common thing is is sugar and lower in other major, um um, chemicals needed for, uh, cellular processes like proteins and and nitrogenous compounds. So aphids have an endo Sibon called, uh which, um, helps them process sugar into other, um, necessary. Um uh, biochemicals. You'll see other groups of em use various other, uh, types of endosymbiont, uh, organisms to, um, deal with their unique, difficult, uh, food source. Aphids also have coric, which are, uh, these structures towards the end of the admin. They're not because they're not Uh uh on the on the last abdominal segment, Um, they are, um they come out of the top of the admin and they're used for alarm pheromones and chemical defence.
 
 ## Slide 7 — Aphid life cycles
+
+![Slide 7](hemiptera-slides/slide-07.jpg)
 
 So a aphids have really, uh, complex life cycles and can reproduce, uh, very quickly, and and, uh, can take over plants. And many of them are tended by, uh, social hemiopia like ants, so they can use similar to the way the the the plant lice use the excess sugar to form those shells. Aphids will use excess sugar to feed both the Buckner and the Sibon and, uh, ants that are tending them. So in aphids, um, they have a really complex life cycle, essentially where they, uh, some parts of the year they will reproduce part genetically. So the the founding, uh, female will lay a lot of eggs that become, uh, females. And they reproduce very quickly that way. And then another generation will have winged males and females, which leave the host plant mate and find new, um, food sources. And these are often, um, these cycle through the seasons, depending on, um, the the parthenogenetic, or non parthenogenetic life cycles. And so the same species can have a lot of different appearances, uh, winged or or not winged, um, and and sexually reproductive or parthenogenetic
 
 ## Slide 8 — Eusociality and galls
 
+![Slide 8](hemiptera-slides/slide-08.jpg)
+
 Along with that, since since some of them uh, have these, um, unique, uh, comp complex life cycles. There's also is eusocial present in aphids, which include, uh, soldiers and and non soldiers, mainly in the nymphs similar to eusocial thrips. These are often inside plants inside the the galls and other aphids will also form galls that are not eusocial.
 
 ## Slide 9 — Coccoidea
+
+![Slide 9](hemiptera-slides/slide-09.jpg)
 
 The last major group of the, which is a major lineage of hemera are the scales and relative scales and mealy bugs. So this is, uh, a large group, including many families called the the So, uh, Cox is one group, one family of the scales. But there's a lot of other important, uh, families of of scale insects. Uh, and the the higher level classification is also, um, undergoing a lot of reconsideration. And is is, uh, uh, a heavy area of of publication. So scales the is a really derived, really strange looking insects that often can be difficult to even tell. You're looking at an insect. Look at that. That dye spit it in the in the bottom corner there. So they usually have reduced, uh, tarse and and, uh, tarse. Generally, the the females are heavily reduced and stay on the the host plant. And the males are winged to, uh, leave the the the plant that they're on and find, uh, mates on another plants. All scales are are plant feeding and similar to the aphids. A lot of them are tended by ants, so they they give sugar to the ants and the ants give them protection.
 
 ## Slide 10 — Scale life cycle
 
+![Slide 10](hemiptera-slides/slide-10.jpg)
+
 The first in star of scales is, uh, mobile. And we'll try to find other new host plant or a new part of the plant to attach. And then, uh, the they will, uh, attach to the plant. Their their styles are very long and will go into the the plant tissue and become, um, Cecil similar to the thrips. There's kind of a, uh, an an analogous stage to a pupa, since there's such a strong morphological difference between nymphs and adults. The females, uh, will stay on the plant, often forming a shell or protecting themselves with with wax or different, um, biochemicals. And the males will, um, moult into being winged and, uh, fly off.
 
 ## Slide 11 — Shellac and carmine
+
+![Slide 11](hemiptera-slides/slide-11.jpg)
 
 So those, um, chemicals are used for defence or for, um uh, in internally in in the scales. Have some, uh, important properties. So there's two, major, um, bio byproducts of scales that are used commercially. One of those is shellac. So there's a scale that forms this this waxy, um um product that is processed into shellac and then another scale that forms Carmine, uh, that this is a scale that attacks cactus in South America and that is used in red dye in a huge number of products. In in, um, cosmetics and human food products
 
 ## Slide 12 — Scale diversity
 
+![Slide 12](hemiptera-slides/slide-12.jpg)
+
 scales are really diverse in appearance. Often they cover themselves in some kind of shell. So this this bottom one is a twig, uh, covered in in scale shells. You can hardly tell that scales are there, since they're they're blending in. But if you break one off, you'll see uh, that there's a female scale there. Um, other ones are heavily armoured. Look looking like mollusk or something like that, uh, or, um, covering the soles of wax or or um blending in with their host plant. And there's a male scale insect in the corner similar to true flies. Often male scale insects have their hind wings reduced and, uh, only have four wings. You can tell them apart from flies, since the wing venation is heavily reduced and the head will be really different, they'll have a different type of, um, sucking probosces.
 
 ## Slide 13 — Auchenorrhyncha
+
+![Slide 13](hemiptera-slides/slide-13.jpg)
 
 Let's say for the sting of the scales and relatives, now we will go into the hoppers and relatives. This is another major lineage of the he, uh really, really diverse and a lot of families. Uh, there's kind of two, major lineages within the aria, which is the the leaf hoppers and and cicadas and relatives and then the the plant hoppers and and relatives, uh, almost all plant feeding. There's, like a couple of major groups that have moved to fungus, and they live down in in the leaf litter. Um, a lot of these produce wax for for protection or to help with desiccation. And a lot are, uh, pests of, uh, agricultural plant products. Uh, similar to the aphids and scales they can. They're tended by ants. Uh, they give sugar in in exchange for, uh, protection, but different than the aphids and relatives. They have a, uh, another, um incipient called Socia. Um, that's that's used to, um, process sugar into other, um, major important carbohydrates and and, um, um biochemicals Aria. A lot of them have sound based communication, so CC are an example. But other groups of aria also, uh, produce sound or drum on the their plants to communicate, so they will often live in a communal group and communicate, uh, to each other via sound or substrate. Born communication, Uh, in in cicadas. They have, um, the A tile to make those real really loud noises, and other groups will drum on their on their host plants.
 
 ## Slide 14 — Endosymbiosis
 
+![Slide 14](hemiptera-slides/slide-14.jpg)
+
 Endon endos is, uh, a really important running theme throughout Hera and in other, uh, insects as well. Um, so with through their bacterial endosy, uh, they can use their scant nitrogenous resources and, uh, sugars and form um, almost any amino acid that they need. So there's it's very difficult to get proteins in the, um the plant, um xylem or flow that they're consuming. So they use endosy meiosis to augment their diets. Those endos There's a number of different, um, bacteria and fungus that that have taken up those niches independently and generally, uh, they become quite reduced, uh, and some among some of the smallest genomes of of any organisms. And some of them will be, um, associated only with certain tissues of the host inside special organs to accommodate those, uh, endos.
 
 ## Slide 15 — Cicadas
+
+![Slide 15](hemiptera-slides/slide-15.jpg)
 
 Here's some examples of OK, um, the the cicadas and relatives, these are are really diverse. Uh, in Australia, there's a lot of important, uh, higher level lineages. Um, these are these are sound producing the larvae live in in the soil attacking plant roots. And the adults come out to, um uh, in in the heat of the summer to make a lot of noise and find mates
 
 ## Slide 16 — Froghoppers
 
+![Slide 16](hemiptera-slides/slide-16.jpg)
+
 some other groups of okina. These are really colourful, uh, frog hoppers that, uh, their nymphs use wax and foam to protect themselves.
 
 ## Slide 17 — Treehoppers
+
+![Slide 17](hemiptera-slides/slide-17.jpg)
 
 The tree hoppers, uh, it's the pro node that is enlarged and covers the, um, the the body and is modified at the various shapes for for defence or for crypsis the nymphs of, uh, tree hoppers. So one of those doesn't have developed wings and is, uh, a nymph are are still quite colourful and spiky and, uh, protected. And in various ways, so so These have wings that are held often enclosed under the the Pernod or or visible um, And then they they sit and and attack their their plant hosts.
 
 ## Slide 18 — Cicadellidae
 
+![Slide 18](hemiptera-slides/slide-18.jpg)
+
 One family that I'll mention in specific because it's really important are the Psychlos. So Psychlos is the most diverse family of organisms outside of holo metabolism, insects. So over 20 23,000 species known and a lot more out there. Uh, I love to be described um, this huge group is probably not, uh, a single natural group, But but, uh, more more research is needed there to to figure out the higher level classification of of psychedelics. Uh, they protect themselves with these complex, uh, carbohydrate spheres called Broos. Um, there. The many of them are quite host specific on their on their plants. And some are agricultural pests that can vector, um, um, viral and and bacterial diseases to their to their host plants. So So some of the major biosecurity threats in Australia are psychedelics that can, um, vector viruses that kill grapes. But beyond that, uh, even though they're often very small and some are nondescript, they're incredibly diverse and colourful. Um, and and, uh, some are are pretty charismatic.
 
 ## Slide 19 — Leafhopper diversity
+
+![Slide 19](hemiptera-slides/slide-19.jpg)
 
 Here's just some more examples of, um, some psychedelics. Um, some are cryptic on their on their leaf or their their branch and other ones are are quite, uh, colourful maybe for, uh, alarm Or, um, uh, surprise. Surprising predators.
 
 ## Slide 20 — Leafhopper colours and forms
 
+![Slide 20](hemiptera-slides/slide-20.jpg)
+
 Here's some really, uh, elegant, colourful, uh, psychedelics. And some have various, uh, modified head shapes. Uh, really, uh, diverse group that needs a lot more study in in Australia.
 
 ## Slide 21 — Delphacidae
+
+![Slide 21](hemiptera-slides/slide-21.jpg)
 
 I'll talk about one more family of Aria because it includes some important pests, which are the del facets. Um, these are mostly feed on, um, mono cots, including grasses. So, uh, then they can vector viral diseases to their to their hosts. So there's really important pests of particularly rice and grains, uh, in in the family Del Fay. Um, some of these are, um polymorphic where some generations will not have developed wings and the same species in other generations will develop wings to find new hosts, Uh, often kind of small, brown and and more nondescript, but, um, really abundant and have a lot of, uh, economic impact.
 
