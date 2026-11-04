@@ -1,5 +1,7 @@
 # Entomology lectures
 
+**[Test 2: one-page notes to copy by hand](exam/README.md)** · [A4 PDF copying guide](exam/test-2-one-page.pdf)
+
 Open a lecture below to read its slides and cleaned English transcript together. Each page has slide shortcuts and links to the previous and next lecture.
 
 **30 paired lectures · 1 slides-only lecture · 697 slides.** Coleoptera Part 2 has a provisional cleaned transcript pending its PDF. Diptera Part 4 is waiting for its PDF. Both PDFs exceeded the attachment-transfer limit.
