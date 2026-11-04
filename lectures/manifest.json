@@ -1,0 +1,332 @@
+[
+  {
+    "id": "01",
+    "title": "Insect Morphology",
+    "path": "lectures/01-insect-morphology/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 17,
+    "transcript_sections": 17,
+    "source_pdf": "1.pdf",
+    "source_transcript": "1.txt"
+  },
+  {
+    "id": "02",
+    "title": "Insect Functional Diversity",
+    "path": "lectures/02-insect-functional-diversity/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 10,
+    "transcript_sections": 10,
+    "source_pdf": "2.pdf",
+    "source_transcript": "2.txt"
+  },
+  {
+    "id": "03",
+    "title": "Invertebrate Intro Part 3 - Panarthropoda",
+    "path": "lectures/03-invertebrate-intro-part-3-panarthropoda/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 14,
+    "transcript_sections": 14,
+    "source_pdf": "Invertebrate Intro Part 3 - Panarthropoda.pdf",
+    "source_transcript": "Invertebrate Intro Part 3 - Panarthropoda.txt"
+  },
+  {
+    "id": "04",
+    "title": "Invertebrate Intro Part 4 - Origin of Insects",
+    "path": "lectures/04-invertebrate-intro-part-4-origin-of-insects/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 10,
+    "transcript_sections": 10,
+    "source_pdf": "Invertebrate Intro Part 4 - Origin of Insects.pdf",
+    "source_transcript": "Invertebrate Intro Part 4 - Origin of Insects.txt"
+  },
+  {
+    "id": "05",
+    "title": "Invertebrate Intro Part 5 - Hexapoda and non-pterygotes",
+    "path": "lectures/05-invertebrate-intro-part-5-hexapoda-and-non-pterygotes/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 13,
+    "transcript_sections": 13,
+    "source_pdf": "Invertebrate Intro Part 5 - Hexapoda and non-pterygotes.pdf",
+    "source_transcript": "Invertebrate Intro Part 5 - Hexapoda and non-pterygotes.txt"
+  },
+  {
+    "id": "06",
+    "title": "Invertebrate Intro Part 6 - Major Insect Lineages",
+    "path": "lectures/06-invertebrate-intro-part-6-major-insect-lineages/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 19,
+    "transcript_sections": 19,
+    "source_pdf": "Invertebrate Intro Part 6 - Major Insect Lineages.pdf",
+    "source_transcript": "Invertebrate Intro Part 6 - Major Insect Lineages.txt"
+  },
+  {
+    "id": "07",
+    "title": "Invertebrate Intro Part 7 - Insect Overview - Aquatics - Paleoptera, Plecoptera",
+    "path": "lectures/07-invertebrate-intro-part-7-insect-overview-aquatics-paleoptera-plecoptera/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 19,
+    "transcript_sections": 18,
+    "source_pdf": "Invertebrate Intro Part 7 - Insect Overview - Aquatics - Paleoptera, Plecoptera.pdf",
+    "source_transcript": "Invertebrate Intro Part 7 - Insect Overview - Aquatics - Paleoptera, Plecoptera.txt"
+  },
+  {
+    "id": "08",
+    "title": "Invertebrate Intro Part 8 - Insect Overview 2 - Polyneoptera 1 - Phasmatodea, Orthoptera",
+    "path": "lectures/08-invertebrate-intro-part-8-insect-overview-2-polyneoptera-1-phasmatodea-orthoptera/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 20,
+    "transcript_sections": 20,
+    "source_pdf": "Invertebrate Intro Part 8 - Insect Overview 2 - Polyneoptera 1 - Phasmatodea, Orthoptera.pdf",
+    "source_transcript": "Invertebrate Intro Part 8 - Insect Overview 2 - Polyneoptera 1 - Phasmatodea, Orthoptera.txt"
+  },
+  {
+    "id": "09",
+    "title": "Invertebrate Intro Part 9 - Insect Overview 3 - Polyneoptera 2 - Dictyoptera etc",
+    "path": "lectures/09-invertebrate-intro-part-9-insect-overview-3-polyneoptera-2-dictyoptera-etc/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 18,
+    "transcript_sections": 17,
+    "source_pdf": "Invertebrate Intro Part 9 - Insect Overview 3 - Polyneoptera 2 - Dictyoptera etc.pdf",
+    "source_transcript": "Invertebrate Intro Part 9 - Insect Overview 3 - Polyneoptera 2 - Dictyoptera etc.txt"
+  },
+  {
+    "id": "10",
+    "title": "Invertebrate Intro Part 10 - Insect Overview 4 - Paraneoptera- lice, thrips",
+    "path": "lectures/10-invertebrate-intro-part-10-insect-overview-4-paraneoptera-lice-thrips/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 18,
+    "transcript_sections": 18,
+    "source_pdf": "Invertebrate Intro Part 10 - Insect Overview 4 - Paraneoptera- lice, thrips.pdf",
+    "source_transcript": "Invertebrate Intro Part 10 - Insect Overview 4 - Paraneoptera- lice, thrips.txt"
+  },
+  {
+    "id": "11",
+    "title": "Invertebrate Intro Part 11 - Insect Overview 5 - Hemiptera 1 - scales, hoppers",
+    "path": "lectures/11-invertebrate-intro-part-11-insect-overview-5-hemiptera-1-scales-hoppers/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 21,
+    "transcript_sections": 21,
+    "source_pdf": "Invertebrate Intro Part 11 - Insect Overview 5 - Hemiptera 1 - scales, hoppers (1).pdf",
+    "source_transcript": "Invertebrate Intro Part 11 - Insect Overview 5 - Hemiptera 1 - scales, hoppers (1).txt"
+  },
+  {
+    "id": "12",
+    "title": "Invertebrate Intro Part 12 - Insect Overview 6 - Hemiptera 2 - true bugs",
+    "path": "lectures/12-invertebrate-intro-part-12-insect-overview-6-hemiptera-2-true-bugs/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 19,
+    "transcript_sections": 19,
+    "source_pdf": "Invertebrate Intro Part 12 - Insect Overview 6 - Hemiptera 2 - true bugs.pdf",
+    "source_transcript": "Invertebrate Intro Part 12 - Insect Overview 6 - Hemiptera 2 - true bugs.txt"
+  },
+  {
+    "id": "13",
+    "title": "Invertebrate Intro Part 13 - Insect Overview 7 - Smaller Holometabolous orders",
+    "path": "lectures/13-invertebrate-intro-part-13-insect-overview-7-smaller-holometabolous-orders/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 16,
+    "transcript_sections": 16,
+    "source_pdf": "Invertebrate Intro Part 13 - Insect Overview 7 - Smaller Holometabolous orders.pdf",
+    "source_transcript": "Invertebrate Intro Part 13 - Insect Overview 7 - Smaller Holometabolous orders.txt.txt.txt"
+  },
+  {
+    "id": "14",
+    "title": "Onychophora",
+    "path": "lectures/14-onychophora/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 61,
+    "transcript_sections": 57,
+    "source_pdf": "Onychophora.pdf",
+    "source_transcript": "Onychophora.txt"
+  },
+  {
+    "id": "15",
+    "title": "Tardigrades and Nematodes",
+    "path": "lectures/15-tardigrades-and-nematodes/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 31,
+    "transcript_sections": 30,
+    "source_pdf": "Tardigrades and Nematodes.pdf",
+    "source_transcript": "Tardigrades and Nematodes.txt"
+  },
+  {
+    "id": "16",
+    "title": "Chelicerata Part 1 - Ticks, Mites  Horseshoe Crabs",
+    "path": "lectures/16-chelicerata-part-1-ticks-mites-horseshoe-crabs/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 45,
+    "transcript_sections": 45,
+    "source_pdf": "Chelicerata Part 1 - Ticks, Mites  Horseshoe Crabs.pdf",
+    "source_transcript": "Chelicerata Part 1 - Ticks, Mites  Horseshoe Crabs.txt"
+  },
+  {
+    "id": "17",
+    "title": "Chelicerata Part 2 - remaining groups",
+    "path": "lectures/17-chelicerata-part-2-remaining-groups/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 40,
+    "transcript_sections": 40,
+    "source_pdf": "Chelicerata Part 2 - remaining groups.pdf",
+    "source_transcript": "Chelicerata Part 2 - remaining groups.txt"
+  },
+  {
+    "id": "18",
+    "title": "Hymenoptera Part 1 - Classification  Taxonomy",
+    "path": "lectures/18-hymenoptera-part-1-classification-taxonomy/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 18,
+    "transcript_sections": 18,
+    "source_pdf": "Hymenoptera Part 1 - Classification  Taxonomy.pdf",
+    "source_transcript": "Hymenoptera Part 1 - Classification  Taxonomy.txt"
+  },
+  {
+    "id": "19",
+    "title": "Hymenoptera Part 2 - Morphology",
+    "path": "lectures/19-hymenoptera-part-2-morphology/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 20,
+    "transcript_sections": 19,
+    "source_pdf": "Hymenoptera Part 2 - Morphology.pdf",
+    "source_transcript": "Hymenoptera Part 2 - Morphology.txt"
+  },
+  {
+    "id": "20",
+    "title": "Hymenoptera Part 3 - Evolution  Behaviour",
+    "path": "lectures/20-hymenoptera-part-3-evolution-behaviour/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 19,
+    "transcript_sections": 19,
+    "source_pdf": "Hymenoptera Part 3 - Evolution  Behaviour.pdf",
+    "source_transcript": "Hymenoptera Part 3 - Evolution  Behaviour.txt"
+  },
+  {
+    "id": "21",
+    "title": "Hymenoptera Part 4 - Biosecurity",
+    "path": "lectures/21-hymenoptera-part-4-biosecurity/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 12,
+    "transcript_sections": 12,
+    "source_pdf": "Hymenoptera Part 4 - Biosecurity.pdf",
+    "source_transcript": "Hymenoptera Part 4 - Biosecurity.txt"
+  },
+  {
+    "id": "22",
+    "title": "Coleoptera Part 1 - Diversity",
+    "path": "lectures/22-coleoptera-part-1-diversity/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 42,
+    "transcript_sections": 39,
+    "source_pdf": "Coleoptera Part 1 - Diversity.pdf",
+    "source_transcript": "Coleoptera Part 1 - Diversity.txt"
+  },
+  {
+    "id": "23",
+    "title": "Coleoptera Part 2 - Ecology  Natural History",
+    "path": "lectures/23-coleoptera-part-2-ecology-natural-history/README.md",
+    "status": "Transcript ready; PDF needed",
+    "slides": 0,
+    "transcript_sections": 35,
+    "source_pdf": null,
+    "source_transcript": "Coleoptera Part 2 - Ecology  Natural History.txt"
+  },
+  {
+    "id": "24",
+    "title": "Diptera Part 1 - Morphology",
+    "path": "lectures/24-diptera-part-1-morphology/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 16,
+    "transcript_sections": 16,
+    "source_pdf": "Diptera Part 1 - Morphology.pdf",
+    "source_transcript": "Diptera Part 1 - Morphology.txt"
+  },
+  {
+    "id": "25",
+    "title": "Diptera Part 2 - Evolution  Classification",
+    "path": "lectures/25-diptera-part-2-evolution-classification/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 19,
+    "transcript_sections": 19,
+    "source_pdf": "Diptera Part 2 - Evolution  Classification.pdf",
+    "source_transcript": "Diptera Part 2 - Evolution  Classification.txt"
+  },
+  {
+    "id": "26",
+    "title": "Diptera Part 3 - Ecology, Economic Impact",
+    "path": "lectures/26-diptera-part-3-ecology-economic-impact/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 21,
+    "transcript_sections": 21,
+    "source_pdf": "Diptera Part 3 - Ecology, Economic Impact.pdf",
+    "source_transcript": "Diptera Part 3 - Ecology, Economic Impact.txt"
+  },
+  {
+    "id": "27",
+    "title": "Diptera Part 4 - Diversity (PDF only, no recording for this one)",
+    "path": "lectures/27-diptera-part-4-diversity-pdf-only-no-recording-for-this-one/README.md",
+    "status": "PDF needed; no recording",
+    "slides": 0,
+    "transcript_sections": 0,
+    "source_pdf": null,
+    "source_transcript": null
+  },
+  {
+    "id": "28",
+    "title": "Amphiesmenoptera Part 1 - Trichoptera",
+    "path": "lectures/28-amphiesmenoptera-part-1-trichoptera/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 11,
+    "transcript_sections": 11,
+    "source_pdf": "Amphiesmenoptera Part 1 - Trichoptera.pdf",
+    "source_transcript": "Amphiesmenoptera Part 1 - Trichoptera.txt"
+  },
+  {
+    "id": "29",
+    "title": "Amphiesmenoptera Part 2 - Lepidoptera - Morphology",
+    "path": "lectures/29-amphiesmenoptera-part-2-lepidoptera-morphology/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 11,
+    "transcript_sections": 11,
+    "source_pdf": "Amphiesmenoptera Part 2 - Lepidoptera - Morphology.pdf",
+    "source_transcript": "Amphiesmenoptera Part 2 - Lepidoptera - Morphology.txt"
+  },
+  {
+    "id": "30",
+    "title": "Amphiesmenoptera Part 3 - Lepidoptera - Identification  Taxonomy",
+    "path": "lectures/30-amphiesmenoptera-part-3-lepidoptera-identification-taxonomy/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 26,
+    "transcript_sections": 26,
+    "source_pdf": "Amphiesmenoptera Part 3 - Lepidoptera - Identification  Taxonomy.pdf",
+    "source_transcript": "Amphiesmenoptera Part 3 - Lepidoptera - Identification  Taxonomy.txt"
+  },
+  {
+    "id": "31",
+    "title": "Amphiesmenoptera Part 4 - Lepidoptera - Phylogeny  Natural History",
+    "path": "lectures/31-amphiesmenoptera-part-4-lepidoptera-phylogeny-natural-history/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 28,
+    "transcript_sections": 28,
+    "source_pdf": "Amphiesmenoptera Part 4 - Lepidoptera - Phylogeny  Natural History.pdf",
+    "source_transcript": "Amphiesmenoptera Part 4 - Lepidoptera - Phylogeny  Natural History.txt"
+  },
+  {
+    "id": "32",
+    "title": "Amphiesmenoptera Part 5 - Lepidoptera - Applied  Issues",
+    "path": "lectures/32-amphiesmenoptera-part-5-lepidoptera-applied-issues/README.md",
+    "status": "Slides + cleaned transcript",
+    "slides": 14,
+    "transcript_sections": 14,
+    "source_pdf": "Amphiesmenoptera Part 5 - Lepidoptera - Applied  Issues.pdf",
+    "source_transcript": "Amphiesmenoptera Part 5 - Lepidoptera - Applied  Issues.txt"
+  },
+  {
+    "id": "33",
+    "title": "Applied Entomology 1 - Forensic Entomology",
+    "path": "lectures/33-applied-entomology-1-forensic-entomology/README.md",
+    "status": "Slides only",
+    "slides": 49,
+    "transcript_sections": 0,
+    "source_pdf": "Applied Entomology 1 - Forensic Entomology.pdf",
+    "source_transcript": null
+  }
+]
